@@ -1,0 +1,36 @@
+.parent{
+    display: flex;
+}
+
+.vertical-line-box{
+    display: flex;
+}
+.vertical-line{
+    background-color: rgb(252, 77, 57);
+    border-radius: 40px;
+    width: 4px;
+    height: 108px;
+    margin-top: 59px;
+    margin-right: 14px;
+}
+.h1-tag h1{
+    color: rgba(0, 0, 0, 1);
+    font-family: Yeseva One;
+    font-weight: 700;
+    font-size: 60px;
+    margin-bottom: -56px;
+}
+.h1-tag h1 span{
+    display: inline-block;
+    margin-top: -20px;
+    color: rgba(255, 173, 90, 1);
+}
+.right-box-image{
+    width: 50px;
+}
+.left-box{
+    margin-left: 85px;
+}
+.left-box p{
+    width: 516px;
+}
